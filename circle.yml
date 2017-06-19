@@ -4,4 +4,4 @@ machine:
 
 test:
   post:
-    - ruby tests/test_verifyurl.rb
+    - ruby tests/*.rb
